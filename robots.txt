@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eebooghei.mategraph.com/sitemap.xml
